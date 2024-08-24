@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Account-Bank/static/css/main.f855e6bc.css",
+    "main.js": "/Account-Bank/static/js/main.2d91a0d8.js",
+    "index.html": "/Account-Bank/index.html",
+    "main.f855e6bc.css.map": "/Account-Bank/static/css/main.f855e6bc.css.map",
+    "main.2d91a0d8.js.map": "/Account-Bank/static/js/main.2d91a0d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2d91a0d8.js"
+  ]
+}
